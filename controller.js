@@ -1,1 +1,1 @@
-const a = "hello how are you."
+const a = "hello how are you freind."
