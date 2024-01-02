@@ -1,2 +1,3 @@
 const check = "checeeking"
-const world = "hello words"
+const world = "hello world"
+const stash = "hello stash"
