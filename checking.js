@@ -1,1 +1,2 @@
-const check = "checking"
+const check = "checeeking"
+const world = "hello world"
